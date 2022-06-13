@@ -1,2 +1,2 @@
-# Hospital-Management_System
-W8 dows Forms Project
+# Hospital_Management_System
+Windows Forms Project
